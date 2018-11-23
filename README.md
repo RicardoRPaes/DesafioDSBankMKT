@@ -2,8 +2,8 @@
 
 Bibliotecas utilizadas:
 
-# Pandas;
-# Numpy;
+Pandas;
+Numpy;
 Plotly;
 Matplotlib;
-Seaborn;
+Seaborn
